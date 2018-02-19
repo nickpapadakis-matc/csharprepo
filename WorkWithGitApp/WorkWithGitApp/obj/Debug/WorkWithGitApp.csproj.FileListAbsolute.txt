@@ -1,0 +1,7 @@
+F:\gitrepos\WorkWithGitApp\WorkWithGitApp\obj\Debug\WorkWithGitApp.csprojResolveAssemblyReference.cache
+F:\gitrepos\WorkWithGitApp\WorkWithGitApp\obj\Debug\WorkWithGitApp.csproj.CoreCompileInputs.cache
+F:\gitrepos\WorkWithGitApp\WorkWithGitApp\bin\Debug\WorkWithGitApp.exe.config
+F:\gitrepos\WorkWithGitApp\WorkWithGitApp\bin\Debug\WorkWithGitApp.exe
+F:\gitrepos\WorkWithGitApp\WorkWithGitApp\bin\Debug\WorkWithGitApp.pdb
+F:\gitrepos\WorkWithGitApp\WorkWithGitApp\obj\Debug\WorkWithGitApp.exe
+F:\gitrepos\WorkWithGitApp\WorkWithGitApp\obj\Debug\WorkWithGitApp.pdb
